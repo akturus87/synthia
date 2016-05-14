@@ -1,0 +1,22 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+.classpath
+.project
+ 
+syntax: glob
+*.class
+*.apk
+*.dex
+*.ap_
+*.suo
+.metadata\*
+.settings\*
+gen/*
+bin/*
